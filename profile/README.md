@@ -14,7 +14,7 @@
 
 ---
 
-## 🛰️ The mission
+## SPACE RACCOON
 
 **SPACE RACCOON** is a 2U CubeSat that will **detect, classify, and assess the collision risk of space debris** in Low Earth Orbit. It does this with onboard computer vision and machine learning.
 
