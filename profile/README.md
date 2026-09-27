@@ -9,7 +9,8 @@
   <a href="https://tufts-cubesat.vercel.app/">Website</a> ·
   <a href="https://tufts-cubesat.vercel.app/space-raccoon">Mission</a> ·
   <a href="https://tufts-cubesat.vercel.app/subteams">Subteams</a> ·
-  <a href="https://tufts-cubesat.vercel.app/team">Team</a>
+  <a href="https://tufts-cubesat.vercel.app/team">Team</a> ·
+  <a href="https://discord.gg/s8vdY6xHRq">Discord</a>
 </p>
 
 ---
